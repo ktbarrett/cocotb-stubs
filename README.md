@@ -5,7 +5,7 @@ Includes Python typing stubs for [cocotb](https://github.com/cocotb/cocotb) and 
 ## Installation
 
 ```sh
-pip install cocotb-stubs
+pip install git+https://github.com/ktbarrett/cocotb-stubs.git
 ```
 
 ## Support
